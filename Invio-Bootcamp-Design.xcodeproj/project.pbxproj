@@ -7,15 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D14A07028E5DBE90099841D /* RobotoSlab.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D14A06F28E5DBE90099841D /* RobotoSlab.ttf */; };
+		3D14A07428E5DDFB0099841D /* RobotoSlab-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D14A07328E5DDFB0099841D /* RobotoSlab-Regular.ttf */; };
 		3DE1B7D328E4C2A300C46D98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE1B7D228E4C2A300C46D98 /* AppDelegate.swift */; };
 		3DE1B7D528E4C2A300C46D98 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE1B7D428E4C2A300C46D98 /* SceneDelegate.swift */; };
 		3DE1B7D728E4C2A300C46D98 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DE1B7D628E4C2A300C46D98 /* ViewController.swift */; };
 		3DE1B7DA28E4C2A300C46D98 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DE1B7D828E4C2A300C46D98 /* Main.storyboard */; };
 		3DE1B7DC28E4C2A500C46D98 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DE1B7DB28E4C2A500C46D98 /* Assets.xcassets */; };
 		3DE1B7DF28E4C2A500C46D98 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DE1B7DD28E4C2A500C46D98 /* LaunchScreen.storyboard */; };
+		3DE1B7E728E4F48C00C46D98 /* NotoSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DE1B7E628E4F48C00C46D98 /* NotoSans-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3D14A06F28E5DBE90099841D /* RobotoSlab.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = RobotoSlab.ttf; sourceTree = "<group>"; };
+		3D14A07328E5DDFB0099841D /* RobotoSlab-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "RobotoSlab-Regular.ttf"; sourceTree = "<group>"; };
+		3D14A07528E5E94D0099841D /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/Main.strings; sourceTree = "<group>"; };
+		3D14A07628E5E94D0099841D /* tr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = tr; path = tr.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		3DE1B7CF28E4C2A300C46D98 /* Invio-Bootcamp-Design.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Invio-Bootcamp-Design.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3DE1B7D228E4C2A300C46D98 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3DE1B7D428E4C2A300C46D98 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +31,7 @@
 		3DE1B7DB28E4C2A500C46D98 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3DE1B7DE28E4C2A500C46D98 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3DE1B7E028E4C2A500C46D98 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DE1B7E628E4F48C00C46D98 /* NotoSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NotoSans-Medium.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +71,9 @@
 				3DE1B7DB28E4C2A500C46D98 /* Assets.xcassets */,
 				3DE1B7DD28E4C2A500C46D98 /* LaunchScreen.storyboard */,
 				3DE1B7E028E4C2A500C46D98 /* Info.plist */,
+				3DE1B7E628E4F48C00C46D98 /* NotoSans-Medium.ttf */,
+				3D14A06F28E5DBE90099841D /* RobotoSlab.ttf */,
+				3D14A07328E5DDFB0099841D /* RobotoSlab-Regular.ttf */,
 			);
 			path = "Invio-Bootcamp-Design";
 			sourceTree = "<group>";
@@ -109,6 +120,7 @@
 			knownRegions = (
 				en,
 				Base,
+				tr,
 			);
 			mainGroup = 3DE1B7C628E4C2A300C46D98;
 			productRefGroup = 3DE1B7D028E4C2A300C46D98 /* Products */;
@@ -125,8 +137,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D14A07428E5DDFB0099841D /* RobotoSlab-Regular.ttf in Resources */,
 				3DE1B7DF28E4C2A500C46D98 /* LaunchScreen.storyboard in Resources */,
 				3DE1B7DC28E4C2A500C46D98 /* Assets.xcassets in Resources */,
+				3DE1B7E728E4F48C00C46D98 /* NotoSans-Medium.ttf in Resources */,
+				3D14A07028E5DBE90099841D /* RobotoSlab.ttf in Resources */,
 				3DE1B7DA28E4C2A300C46D98 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -151,6 +166,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3DE1B7D928E4C2A300C46D98 /* Base */,
+				3D14A07528E5E94D0099841D /* tr */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -159,6 +175,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				3DE1B7DE28E4C2A500C46D98 /* Base */,
+				3D14A07628E5E94D0099841D /* tr */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,6 +187,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -216,7 +234,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -230,6 +248,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -270,7 +289,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -293,8 +312,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -321,8 +340,8 @@
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

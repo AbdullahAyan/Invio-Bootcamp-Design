@@ -1,0 +1,64 @@
+
+/* Class = "UIButton"; configuration.title = "B"; ObjectID = "14N-fm-Wyi"; */
+"14N-fm-Wyi.configuration.title" = "B";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "14N-fm-Wyi"; */
+"14N-fm-Wyi.normalTitle" = "Buton";
+
+/* Class = "UIButton"; configuration.title = "Synthetic"; ObjectID = "Af7-ln-udF"; */
+"Af7-ln-udF.configuration.title" = "Sentetik";
+
+/* Class = "UIButton"; normalTitle = "Synthetic"; ObjectID = "Af7-ln-udF"; */
+"Af7-ln-udF.normalTitle" = "Sentetik";
+
+/* Class = "UIButton"; normalTitle = "41"; ObjectID = "PI5-7W-l6p"; */
+"PI5-7W-l6p.normalTitle" = "41";
+
+/* Class = "UILabel"; text = "Nike"; ObjectID = "UTO-EO-V0W"; */
+"UTO-EO-V0W.text" = "Nike";
+
+/* Class = "UIButton"; normalTitle = "Rubber"; ObjectID = "XSL-QY-dGi"; */
+"XSL-QY-dGi.normalTitle" = "Kauçuk";
+
+/* Class = "UILabel"; text = "Select Size"; ObjectID = "YoK-rp-mIr"; */
+"YoK-rp-mIr.text" = "Beden Seçin";
+
+/* Class = "UILabel"; text = "Gyakusou Zoom Pegasus 36"; ObjectID = "ZBt-w2-GaI"; */
+"ZBt-w2-GaI.text" = "Gyakusou Zoom Pegasus 36";
+
+/* Class = "UIButton"; normalTitle = "42"; ObjectID = "ZNg-P2-m09"; */
+"ZNg-P2-m09.normalTitle" = "42";
+
+/* Class = "UIButton"; normalTitle = "40"; ObjectID = "Zxf-RB-DzE"; */
+"Zxf-RB-DzE.normalTitle" = "40";
+
+/* Class = "UIButton"; normalTitle = "43"; ObjectID = "aUk-gW-FIr"; */
+"aUk-gW-FIr.normalTitle" = "43";
+
+/* Class = "UIButton"; normalTitle = "Polyamide"; ObjectID = "c1b-jg-eIC"; */
+"c1b-jg-eIC.normalTitle" = "Poliamid";
+
+/* Class = "UINavigationItem"; title = "Sport"; ObjectID = "dfa-uH-47U"; */
+"dfa-uH-47U.title" = "Spor";
+
+/* Class = "UIButton"; normalTitle = "39"; ObjectID = "e8C-7K-XNN"; */
+"e8C-7K-XNN.normalTitle" = "39";
+
+/* Class = "UIButton"; configuration.title = "$232 - Add to Cart"; ObjectID = "mFi-PB-gkL"; */
+"mFi-PB-gkL.configuration.title" = "$232 - Sepete Ekle";
+
+/* Class = "UIButton"; normalTitle = "$232 - Add to Cart"; ObjectID = "mFi-PB-gkL"; */
+"mFi-PB-gkL.normalTitle" = "$232 - Sepete Ekle";
+
+/* Class = "UILabel"; text = "Composition"; ObjectID = "mbQ-PP-37G"; */
+"mbQ-PP-37G.text" = "Bileşim";
+
+/* Class = "UIButton"; configuration.title = "B"; ObjectID = "wO0-AZ-KIr"; */
+"wO0-AZ-KIr.configuration.title" = "B";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wO0-AZ-KIr"; */
+"wO0-AZ-KIr.normalTitle" = "Buton";
+
+"88Y-0Q-z35.title" = "Ayakkabılar";
+
+"dfa-uH-47U.title" = "Ayakkabılar";
